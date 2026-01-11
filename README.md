@@ -19,4 +19,4 @@ This is a simple personal portfolio website created to showcase my skills, proje
 This project is built as a practice portfolio website and will be updated as I learn new technologies and build more projects.
 
 ## Live Demo
-Will be added after deployment.
+https://6963530038ccf873c07b47ff--classy-cranachan-735260.netlify.app/
